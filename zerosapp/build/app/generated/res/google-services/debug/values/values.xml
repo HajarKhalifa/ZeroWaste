@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">273113892400-o4k44aolvrrkquc9636s5k6t7utdtsm1.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">273113892400</string>
+    <string name="google_api_key" translatable="false">AIzaSyBhAJcDUjt96qFaVXgE420LkA_g_Qxo2zo</string>
+    <string name="google_app_id" translatable="false">1:273113892400:android:a4e4a64e69e543224d0ff5</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBhAJcDUjt96qFaVXgE420LkA_g_Qxo2zo</string>
+    <string name="google_storage_bucket" translatable="false">waste-classfication.appspot.com</string>
+    <string name="project_id" translatable="false">waste-classfication</string>
+</resources>

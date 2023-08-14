@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\sqflite\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\sqflite\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\sqflite\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\sqflite\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\sqflite\\intermediates\\merged_res\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    }
+]

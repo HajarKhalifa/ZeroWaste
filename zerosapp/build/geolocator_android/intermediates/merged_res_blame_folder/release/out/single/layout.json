@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\geolocator_android\\intermediates\\merged_res\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\9e70373c65342a43bba1b4e98b2841de\\transformed\\core-1.9.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\geolocator_android\\intermediates\\merged_res\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\9e70373c65342a43bba1b4e98b2841de\\transformed\\core-1.9.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\geolocator_android\\intermediates\\merged_res\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\9e70373c65342a43bba1b4e98b2841de\\transformed\\core-1.9.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\geolocator_android\\intermediates\\merged_res\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\9e70373c65342a43bba1b4e98b2841de\\transformed\\core-1.9.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\geolocator_android\\intermediates\\merged_res\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\9e70373c65342a43bba1b4e98b2841de\\transformed\\core-1.9.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\geolocator_android\\intermediates\\merged_res\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\9e70373c65342a43bba1b4e98b2841de\\transformed\\core-1.9.0\\res\\layout\\notification_template_part_chronometer.xml"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\mobile_scanner\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\7d856e4fb916bc007b616d42d30394a2\\transformed\\jetified-play-services-base-18.1.0\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\mobile_scanner\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\7d856e4fb916bc007b616d42d30394a2\\transformed\\jetified-play-services-base-18.1.0\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\mobile_scanner\\intermediates\\merged_res\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\7d856e4fb916bc007b616d42d30394a2\\transformed\\jetified-play-services-base-18.1.0\\res\\color\\common_google_signin_btn_tint.xml"
+    }
+]

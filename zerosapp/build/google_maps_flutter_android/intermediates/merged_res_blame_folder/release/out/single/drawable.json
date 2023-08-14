@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\google_maps_flutter_android\\intermediates\\merged_res\\release\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\f770539dbfc2473217179718a3987b74\\transformed\\jetified-play-services-base-18.0.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    }
+]

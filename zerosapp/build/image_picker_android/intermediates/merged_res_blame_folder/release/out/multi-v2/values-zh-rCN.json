@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\image_picker_android\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\9004ccc798074a95a8393ead414f64c8\\transformed\\core-1.10.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,248,342,436,529,623,719",
+                        "endColumns": "91,100,93,93,92,93,95,100",
+                        "endOffsets": "142,243,337,431,524,618,714,815"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\image_picker_android\\intermediates\\merged_res\\release\\values-zh-rCN\\values-zh-rCN.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\9004ccc798074a95a8393ead414f64c8\\transformed\\core-1.10.1\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,147,248,342,436,529,623,719",
+                        "endColumns": "91,100,93,93,92,93,95,100",
+                        "endOffsets": "142,243,337,431,524,618,714,815"
+                    }
+                }
+            ]
+        }
+    ]
+}

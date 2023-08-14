@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\app\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_n144.png.flat",
+        "source": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\n144.png"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\app\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\app\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\app\\intermediates\\merged_res\\debug\\drawable-v21_launch_background.xml.flat",
+        "source": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\android\\app\\src\\main\\res\\drawable-v21\\launch_background.xml"
+    }
+]

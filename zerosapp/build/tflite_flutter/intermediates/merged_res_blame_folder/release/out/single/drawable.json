@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\tflite_flutter\\intermediates\\merged_res\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\tflite_flutter\\intermediates\\merged_res\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\tflite_flutter\\intermediates\\merged_res\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\tflite_flutter\\intermediates\\merged_res\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    }
+]

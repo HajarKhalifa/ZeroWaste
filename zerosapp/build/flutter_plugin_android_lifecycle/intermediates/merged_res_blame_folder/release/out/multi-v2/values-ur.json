@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\flutter_plugin_android_lifecycle\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-ur\\values-ur.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\release\\values-ur\\values-ur.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

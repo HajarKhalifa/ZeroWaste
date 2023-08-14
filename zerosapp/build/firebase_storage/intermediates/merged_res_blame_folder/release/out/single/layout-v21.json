@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\firebase_storage\\intermediates\\merged_res\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\firebase_storage\\intermediates\\merged_res\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\firebase_storage\\intermediates\\merged_res\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "A:\\flutter\\helper2\\Zero-Waste-App-main\\zerosapp\\build\\firebase_storage\\intermediates\\merged_res\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\hager\\.gradle\\caches\\transforms-3\\4cbde22bbbcef8e0388a436861b09c7b\\transformed\\core-1.6.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
